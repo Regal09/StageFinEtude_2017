@@ -4,7 +4,7 @@ Métier : Développeur Full stack / Société : Lyocode Consulting
 
 Les tàches réalisées : 
 
--> Réalisation d'une conception de l'applicaion.
+-> Réalisation d'une conception de l'application.
 
 -> Réalisation de l'application en utilisant le language PHP.
 
